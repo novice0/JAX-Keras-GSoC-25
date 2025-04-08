@@ -72,11 +72,11 @@ While most tutorials focus on classification tasks like MNIST or ImageNet, this 
 
 ## Contact
 
-**Name:** Chinmay Mulmule  
-**Preferred Name:** Chinmay  
-**Email:** [chinmaymulmule@gmail.com]
+**Name:** Chinmay Mulmule \
+**Preferred Name:** Chinmay \
+**Email:** [chinmaymulmule@gmail.com] \
 **GitHub:** [https://github.com/novice0]
-**LinkedIn / Website:** [https://www.linkedin.com/in/chinmay-mulmule-996195254/]
+**LinkedIn / Website:** [https://www.linkedin.com/in/chinmay-mulmule-996195254/] \
 
 ---
 
