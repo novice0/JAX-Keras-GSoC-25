@@ -33,20 +33,20 @@ This section contains a Jupyter Notebook that:
 
 If selected, this repository will evolve into a **complete curriculum** of JAX/Flax-based notebooks tailored to LLMs. Here's the proposed timeline and deliverables:
 
-| **Phase**        | **Deliverable**                           | **Details**                                                        |
-| ---------------- | ----------------------------------------- | ------------------------------------------------------------------ |
-| May 8 – June 1   | 🧠 Community Bonding                      | Explore codebases, finalize scope, read JAX/Flax/TPU documentation |
-| Week 1 (June 2)  | ✅ Notebook 1: JAX Basics                 | Functional programming, jit/grad/vmap, immutable arrays            |
-| Week 2           | ✅ Notebook 2: Flax Basics                | linen.Module, param management, RNG use in Flax                    |
-| Week 3           | ✅ Notebook 3: Self-Attention             | Implement GPT-style attention from scratch in Flax                 |
-| Week 4           | ✅ Notebook 4: Rotary Embeddings          | Theory, math, and vectorized JAX implementation                    |
-| Week 5           | ✅ Notebook 5: Key-Value Caching          | KV cache in Flax, enabling faster inference                        |
-| Week 6 (Midterm) | 📊 Benchmarks + Debugging Tips            | TPU/GPU profiling, jit vs no-jit, XLA tips                         |
-| Week 7           | ✅ Notebook 6: Model Parallelism          | pmap, shard_map, partitioning layers for large models              |
-| Week 8           | ✅ Notebook 7: Checkpointing & LoRA       | Fit bigger models via gradient checkpointing & LoRA                |
-| Week 9           | ✅ Notebook 8: Saving/Loading Flax Models | Serialization best practices                                       |
-| Week 10          | 🛠️ Optional: Chat UI for Testing          | Minimal Gradio-based UI for inference demo                         |
-| Final Week       | 🧾 Documentation                          | Organize content, fix typos, polish markdown & tests               |
+| **Phase**        | **Deliverable**                        | **Details**                                                        |
+| ---------------- | -------------------------------------- | ------------------------------------------------------------------ |
+| May 8 – June 1   | Community Bonding                      | Explore codebases, finalize scope, read JAX/Flax/TPU documentation |
+| Week 1 (June 2)  | Notebook 1: JAX Basics                 | Functional programming, jit/grad/vmap, immutable arrays            |
+| Week 2           | Notebook 2: Flax Basics                | linen.Module, param management, RNG use in Flax                    |
+| Week 3           | Notebook 3: Self-Attention             | Implement GPT-style attention from scratch in Flax                 |
+| Week 4           | Notebook 4: Rotary Embeddings          | Theory, math, and vectorized JAX implementation                    |
+| Week 5           | Notebook 5: Key-Value Caching          | KV cache in Flax, enabling faster inference                        |
+| Week 6 (Midterm) | Benchmarks + Debugging Tips            | TPU/GPU profiling, jit vs no-jit, XLA tips                         |
+| Week 7           | Notebook 6: Model Parallelism          | pmap, shard_map, partitioning layers for large models              |
+| Week 8           | Notebook 7: Checkpointing & LoRA       | Fit bigger models via gradient checkpointing & LoRA                |
+| Week 9           | Notebook 8: Saving/Loading Flax Models | Serialization best practices                                       |
+| Week 10          | Optional: Chat UI for Testing          | Minimal Gradio-based UI for inference demo                         |
+| Final Week       | Documentation                          | Organize content, fix typos, polish markdown & tests               |
 
 ---
 
@@ -61,7 +61,7 @@ While most tutorials focus on classification tasks like MNIST or ImageNet, this 
 
 ---
 
-## 👥 Who is this for?
+## Who is this for?
 
 - ML practitioners switching from PyTorch/Keras to JAX
 - Researchers building custom LLMs
@@ -78,9 +78,9 @@ While most tutorials focus on classification tasks like MNIST or ImageNet, this 
 
 **Email:** [chinmaymulmule@gmail.com]
 
-**GitHub:** [https://github.com/novice0]
+**GitHub:** [novice0][https://github.com/novice0]
 
-**LinkedIn / Website:** [https://www.linkedin.com/in/chinmay-mulmule-996195254/]
+**LinkedIn / Website:** [chinmay-mulmule](https://www.linkedin.com/in/chinmay-mulmule-996195254/)
 
 ---
 
