@@ -1,10 +1,10 @@
-# 🧠 Building LLMs from Scratch: JAX/Flax Internals, Performance, and Education
+# Building LLMs from Scratch: JAX/Flax Internals, Performance, and Education
 
 Welcome to the repository for my GSoC 2025 project proposal focused on **building LLM components from scratch** while **demystifying the internals of JAX/Flax**. This repo is aimed at learners, researchers, and practitioners who want to understand and implement the building blocks of large language models—not just use them.
 
 ---
 
-## 📚 Current Contents
+## Current Contents
 
 ### ✅ 1. MiniGPT from Scratch in Keras (TensorFlow)
 
@@ -29,7 +29,7 @@ This section contains a Jupyter Notebook that:
 
 ---
 
-## 🚀 Planned Deliverables (If Selected for GSoC)
+## Planned Deliverables (If Selected for GSoC)
 
 If selected, this repository will evolve into a **complete curriculum** of JAX/Flax-based notebooks tailored to LLMs. Here's the proposed timeline and deliverables:
 
@@ -50,7 +50,7 @@ If selected, this repository will evolve into a **complete curriculum** of JAX/F
 
 ---
 
-## 🎯 Vision
+## Vision
 
 While most tutorials focus on classification tasks like MNIST or ImageNet, this project focuses on:
 
@@ -70,14 +70,14 @@ While most tutorials focus on classification tasks like MNIST or ImageNet, this 
 
 ---
 
-## 📬 Contact
+## Contact
 
-**Name:** [Your Full Name]  
-**Preferred Name:** [Your Preferred Name]  
-**Email:** [your_email@example.com]  
-**GitHub:** [github.com/yourusername]  
-**LinkedIn / Website:** [yourlink.com]
+**Name:** Chinmay Mulmule  
+**Preferred Name:** Chinmay  
+**Email:** [chinmaymulmule@gmail.com]
+**GitHub:** [https://github.com/novice0]
+**LinkedIn / Website:** [https://www.linkedin.com/in/chinmay-mulmule-996195254/]
 
 ---
 
-**If you're reviewing this for GSoC** — thank you for your time and consideration! 🙏 This repo will become a living, growing, open-source knowledge base if selected 🌱
+**If you're reviewing this for GSoC** — thank you for your time and consideration! This repo will become a living, growing, open-source knowledge base if selected
