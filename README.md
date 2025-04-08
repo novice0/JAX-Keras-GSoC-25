@@ -1,2 +1,2 @@
-# JAX---Keras-GSoC-25
+# JAX-Keras-GSoC-25
 Creating LLM Examples Using JAX and Flax
