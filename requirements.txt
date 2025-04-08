@@ -1,0 +1,8 @@
+numpy==2.2.4
+flax==0.10.5
+jaxlib==0.5.3
+transformers==4.49.0
+torch==2.6.0
+keras==3.9.2
+tensorflow==2.19.0
+tensorflow-io-gcs-filesystem==0.37.1
