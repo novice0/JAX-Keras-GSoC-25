@@ -6,7 +6,7 @@ Welcome to the repository for my GSoC 2025 project proposal focused on **buildin
 
 ## Current Contents
 
-### ✅ 1. MiniGPT from Scratch in Keras (TensorFlow)
+### 1. MiniGPT from Scratch in Keras (TensorFlow)
 
 A pedagogical implementation of a GPT-like architecture using **pure Keras** (TensorFlow backend). This includes:
 
@@ -18,7 +18,7 @@ A pedagogical implementation of a GPT-like architecture using **pure Keras** (Te
 
 This acts as a **baseline**, helping users familiar with Keras transition toward JAX/Flax.
 
-### ✅ 2. Profiling Speed/Memory Tradeoffs in `jax.jit`
+### 2. Profiling Speed/Memory Tradeoffs in `jax.jit`
 
 This section contains a Jupyter Notebook that:
 
@@ -78,7 +78,7 @@ While most tutorials focus on classification tasks like MNIST or ImageNet, this 
 
 **Email:** [chinmaymulmule@gmail.com]
 
-**GitHub:** [novice0][https://github.com/novice0]
+**GitHub:** [novice0](https://github.com/novice0)
 
 **LinkedIn / Website:** [chinmay-mulmule](https://www.linkedin.com/in/chinmay-mulmule-996195254/)
 
