@@ -4,6 +4,18 @@ Welcome to the repository for my GSoC 2025 project proposal focused on **buildin
 
 ---
 
+## Note for the Viewers
+
+**A 'work in progress repo** - Over the course of the community bonding period, a lot of notebook content will be appended to this repo regularly
+
+**Call to my community!!** - I have had a difficult time locating JAX and Keras open source community for the GSoC problem statements. If anyone coming across this repo knows about where I can find the community page, I would be grateful if you'd contact me via mail or on LinkedIn :)
+
+**I want more advice** - I am facing a lot of questions - whether to include graphical representations, diagrams, illustrations, gifs, interactive dashboards into jupyter notebook for creating LLM Examples. Suggestions along these lines would be greatly appreciated!!
+
+**If you're reviewing this for GSoC** — Thank you for your time and consideration! This repo will become a living, growing, open-source knowledge base!
+
+---
+
 ## Current Contents
 
 ### 1. MiniGPT from Scratch in Keras (TensorFlow)
@@ -81,7 +93,3 @@ While most tutorials focus on classification tasks like MNIST or ImageNet, this 
 **GitHub:** [novice0](https://github.com/novice0)
 
 **LinkedIn / Website:** [chinmay-mulmule](https://www.linkedin.com/in/chinmay-mulmule-996195254/)
-
----
-
-**If you're reviewing this for GSoC** — thank you for your time and consideration! This repo will become a living, growing, open-source knowledge base if selected
