@@ -6,7 +6,7 @@ Welcome to the repository for my GSoC 2025 project proposal focused on **buildin
 
 ## Note for the Viewers
 
-**A 'work in progress repo** - Over the course of the community bonding period, a lot of notebook content will be appended to this repo regularly
+**A "work in progress repo"** - Over the course of the community bonding period, a lot of notebook content will be appended to this repo regularly
 
 **Call to my community!!** - I have had a difficult time locating JAX and Keras open source community for the GSoC problem statements. If anyone coming across this repo knows about where I can find the community page, I would be grateful if you'd contact me via mail or on LinkedIn :)
 
