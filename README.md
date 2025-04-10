@@ -8,7 +8,7 @@ Welcome to the repository for my GSoC 2025 project proposal focused on **buildin
 
 **A "work in progress repo"** - Over the course of the community bonding period, a lot of notebook content will be appended to this repo regularly
 
-**Call to my community!!** - I have had a difficult time locating JAX and Keras open source community for the GSoC problem statements. If anyone coming across this repo knows about where I can find the community page, I would be grateful if you'd contact me via mail or on LinkedIn :)
+**Call to my community!!** - I have had a difficult time locating JAX and Keras open source community for the GSoC problem statements. If anyone coming across this repo knows about where I can find the community page, I would be grateful if you'd contact me via [mail](chinmaymulmule@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/chinmay-mulmule-996195254/) :)
 
 **I want more advice** - I am facing a lot of questions - whether to include graphical representations, diagrams, illustrations, gifs, interactive dashboards into jupyter notebook for creating LLM Examples. Suggestions along these lines would be greatly appreciated!!
 
